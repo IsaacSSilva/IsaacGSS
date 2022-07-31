@@ -29,18 +29,8 @@
 <img width='50' src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-docker-80.png">
 
 </div>
-
-<div align='center'>
-<h2 align='center'>Tools ⚙️</h2>
-
-<img width='50' src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-notion.svg">
-<img width='50' src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-visual-studio-code-2019-80.png">
-
-
-</div>
   
 <div align="center">
-<h2 align='center'>Dashboard 🧑‍🚀<h2>
 
   <a href="https://github.com/IsaacGSS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacGSS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
