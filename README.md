@@ -1,4 +1,4 @@
-<h1>Hello 👋 Wor.. , Where's my Coffee! 😵‍💫</h1>
+<h1>👋 Hello Wor.. , Where's my Coffee!</h1>
 <div align="center">
   <img src="https://i.pinimg.com/564x/ef/75/c6/ef75c60fb606be39d9858f9ada8ca439.jpg">
 </div>
