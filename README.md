@@ -6,11 +6,6 @@
   
 </div>
 
-<div>
-
-
-
-</div>
 <div align="center">
 <h2 align='center'>🐱‍💻 Hard skills<h2>
 
