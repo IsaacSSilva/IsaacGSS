@@ -2,7 +2,7 @@
 <div align="center">
 <h1>👋 Hello Wor.. , Where's my Coffee!</h1>
 
-  <img align="right" height="250" style="margin-left: 25px" src="https://1831ac3b-3829-4f1b-9fe4-2165dc6fe06c.id.repl.co/Golden%20Boy.gif">
+  <img align="right" height="270" style="margin-left: 25px" src="https://1831ac3b-3829-4f1b-9fe4-2165dc6fe06c.id.repl.co/Golden%20Boy.gif">
   
 </div>
   
@@ -17,6 +17,8 @@
 <img  src="https://camo.githubusercontent.com/422a6f5a0a7005a1d45619795785acc3452317a8cb6a75d59e6f185255bee191/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d76657263656c2d3030303030303f6c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765">
 
 </div>
+  
+  </br>
 
 <div align='center'>
 <h2 align='center'>Studying 📚<h2>
@@ -25,9 +27,11 @@
 <img src="https://camo.githubusercontent.com/ff90fbc018254efc8be7cb181bf72c47630800324988ca7a71055a43fd2dcc23/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d72656163746a732d3631444146423f6c6f676f3d7265616374266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765">
 <img src="https://camo.githubusercontent.com/c8262d7e49802bfad4415c1860ced4f95209c3c1f8bd3302e51d1127ebfb0df3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d646f636b65722d3234393645443f6c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765">
 
-</div>
+
   
 <div align="center">
+  
+  <br>
 
   <a href="https://github.com/IsaacGSS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacGSS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
