@@ -3,11 +3,22 @@
   <img src="https://i.pinimg.com/564x/ef/75/c6/ef75c60fb606be39d9858f9ada8ca439.jpg">
 </div>
 
-</br>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=IsaacGSS&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacGSS&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+</br>
+
+<h2 align='center'>technology 🐱‍💻<h2>
+  
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+</div>
+
+
+<h2 align='center'>Dashboard 🧑‍🚀<h2>
+  
+<div align="center">
+  <a href="https://github.com/IsaacGSS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacGSS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacGSS&layout=compact&langs_count=5&theme=radical"/>
+</div>
