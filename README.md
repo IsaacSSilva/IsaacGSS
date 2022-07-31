@@ -1,6 +1,6 @@
 <h1>👋 Hello Wor.. , Where's my Coffee!</h1>
 <div align="center">
-  <img src="https://i.pinimg.com/564x/ef/75/c6/ef75c60fb606be39d9858f9ada8ca439.jpg">
+  <img src="https://1831ac3b-3829-4f1b-9fe4-2165dc6fe06c.id.repl.co/Golden%20Boy.gif">
 </div>
 
 ---
