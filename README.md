@@ -2,11 +2,9 @@
 <div align="center">
 <h1>👋 Hello Wor.. , Where's my Coffee!</h1>
 
-  <img src="https://1831ac3b-3829-4f1b-9fe4-2165dc6fe06c.id.repl.co/Golden%20Boy.gif">
+  <img align="right" height="250" style="margin-left: 25px" src="https://1831ac3b-3829-4f1b-9fe4-2165dc6fe06c.id.repl.co/Golden%20Boy.gif">
   
 </div>
-
-----
   
 <div align="center">
 <h2 align='center'>🐱‍💻 Hard skills<h2>
