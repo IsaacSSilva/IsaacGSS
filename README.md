@@ -19,11 +19,11 @@
        > Estudos 
        > Ler, procurar e futucar Documentações
 
-🚀  Em rumo a profissionalizar em Front
+🚀  Em rumo a profissionalizar em Front,
       esse é meu proximo nivel
 
-✨  Entretanto me tornar Full-Stack JS
-      é e aonde quero chegar
+✨  Entretanto me tornar Full-Stack JS,
+      é aonde quero chegar
 ```
 
 </div>
