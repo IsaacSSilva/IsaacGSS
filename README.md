@@ -8,7 +8,7 @@
 
 <div align="left">
 
-```md
+```diff
 # 👋 hi i'm isaac
 
 🌱  Sou Desenvolvedor Front end
