@@ -29,21 +29,7 @@
 </div>
 
 
-<div align="center">
-
-<details >
-    <summary><h2><underline><b> ✨ SEE ME 👇 </b></underline></h2></summary>
-<a href="https://github.com/IsaacGSS">
-<table>
-
-     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacGSS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacGSS&layout=compact&langs_count=5&theme=radical"/>
-
-</table>
-</a>
-</details>
- 
+<div align="center"> 
   
 ## 🐱‍💻 Hard skills
 
@@ -59,4 +45,18 @@
 <img src="https://camo.githubusercontent.com/1cc9096d7d09156235c56fbba3032262b82cbc9b3c193c0978f695e0f78f4f4e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d747970657363727970742d3331373843363f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765">
 <img src="https://camo.githubusercontent.com/ff90fbc018254efc8be7cb181bf72c47630800324988ca7a71055a43fd2dcc23/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d72656163746a732d3631444146423f6c6f676f3d7265616374266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765">
 <img src="https://camo.githubusercontent.com/c8262d7e49802bfad4415c1860ced4f95209c3c1f8bd3302e51d1127ebfb0df3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d646f636b65722d3234393645443f6c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765">
+
+<details >
+    <summary><h2><underline><b> ✨ SEE ME 👇 </b></underline></h2></summary>
+<a href="https://github.com/IsaacGSS">
+<table>
+
+     
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacGSS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacGSS&layout=compact&langs_count=5&theme=radical"/>
+
+</table>
+</a>
+</details>
+
 </div>
