@@ -2,7 +2,7 @@
 <div align="center">
 <h1>Hello Wor.. , Where's my Coffee? ☕</h1>
 
-  <img align="right" height="300" src="https://1831ac3b-3829-4f1b-9fe4-2165dc6fe06c.id.repl.co/Golden%20Boy.gif">
+  <img align="right" height="300" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif">
   
 </div>
 
