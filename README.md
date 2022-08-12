@@ -22,7 +22,7 @@
 🚀  Em rumo a profissionalizar em Front,
       esse é meu proximo nivel
 
-✨  Entretanto me tornar Full-Stack JS,
+✨  Entretanto me tornar Full-Stack,
       é aonde quero chegar
 ```
 
