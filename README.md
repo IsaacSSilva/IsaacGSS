@@ -46,11 +46,8 @@
 <img  src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-react-80.png" width= 40>
 <img  src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-docker-80.png" width= 40>
 
-<br>
-
 <div align="left">
 
-<br>
 
 ### Status
 ----
