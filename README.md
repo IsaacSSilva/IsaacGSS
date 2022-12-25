@@ -37,14 +37,15 @@
 <img  src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-html-5.svg" width= 50>
 <img  src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-css3.svg" width= 50>
 <img  src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-sass-80.png" width= 50>
+<img  src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/Tailwind.svg" width= 50>
 <img  src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-node-js-80.png" width= 50>
 <img  src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-mysql-logo-80%20(1).png" width= 50>
-
-### 📚 Studying
-
 <img  src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-typescript-80.png" width= 40>
 <img  src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-react-80.png" width= 40>
-<img  src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-docker-80.png" width= 40>
+
+<!-- ### 📚 Studying
+
+<img  src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-docker-80.png" width= 40> -->
 
 <div align="left">
 
