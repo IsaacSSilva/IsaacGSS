@@ -1,8 +1,8 @@
 
 <div align="center">
-<h1>Hello Wor.. , Where's my Coffee? ☕</h1>
+<h1>Isaac S. Silva ☕</h1>
 
-  <img align="right" height="289" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif">
+  <img align="right" height="409" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif">
   
 </div>
 
@@ -15,15 +15,19 @@
 
 🧙‍  Dentre todos meus hobbies 
           [animes, games]
-  🤓 tem:
-       > Estudos 
+  🤓 tem :
+       > animes e games
+  
+  🤓 tem [dev]:
+       > Estudos [Js|Ty|Next]
        > Ler, procurar e futucar Documentações
 
-🚀  Em rumo a profissionalizar em Front,
-      esse é meu proximo nivel
+🚀  Me aprofundando em Front,
+      em busca do meu proximo nivel!
 
-✨  Entretanto me tornar Full-Stack,
-      é aonde quero chegar
+✨  Sou entrege a tecnologia de coracao, 
+         amor e curioso por ela,
+          dev js focado na simplicidade!
 ```
 
 </div>
