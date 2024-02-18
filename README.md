@@ -33,9 +33,9 @@
 </div>
 
 
-<div align="center"> 
+<!-- <div align="center"> 
   
-## 🐱‍💻 Hard skills 
+ ## 🐱‍💻 Hard skills 
 
 <img  src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-javascript.svg" width= 50>
 <img  src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-html-5.svg" width= 50>
@@ -45,7 +45,7 @@
 <img  src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-node-js-80.png" width= 50>
 <img  src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-mysql-logo-80%20(1).png" width= 50>
 <img  src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-typescript-80.png" width= 40>
-<img  src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-react-80.png" width= 40>
+<img  src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-react-80.png" width= 40> -->
 
 <!-- ### 📚 Studying
 
@@ -59,7 +59,7 @@
      
 <div align="center">
      
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacGSS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacGSS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
   <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacGSS&layout=compact&langs_count=8&theme=radical"/>
 
 </div>
