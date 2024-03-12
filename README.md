@@ -11,7 +11,7 @@
 ```diff
 # 👋 hi i'm isaac
 
-🌱  Sou Desenvolvedor Front end
+🌱  Sou Desenvolvedor Web
 
 🧙‍  Dentre todos meus hobbies 
           [animes, games]
@@ -19,10 +19,10 @@
        > animes e games
   
   🤓 tem [dev]:
-       > Estudos [Js|Ty|Next]
+       > XP [Js|Ty|node]
        > Ler, procurar e futucar Documentações
 
-🚀  Me aprofundando em Front,
+🚀  Me aprofundando em Backend,
       em busca do meu proximo nivel!
 
 ✨  Sou entrege a tecnologia de coracao, 
